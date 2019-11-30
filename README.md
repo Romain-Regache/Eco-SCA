@@ -6,6 +6,6 @@ Que ce soit chez vous, dans votre jardin, sur votre toit ou votre balcon. Notre 
 
 # Objectif
 • Faire pousser fruits et légumes n'importe où toute l'année.
-• Produire soi-même sa nourriture facilement.
-• Aider les utilisateurs à obtenir la meilleure récolte.
-• Faire gagner du temps aux utilisateurs lors de la production.
+<br>• Produire soi-même sa nourriture facilement.</br>
+<br>• Aider les utilisateurs à obtenir la meilleure récolte.</br>
+<br>• Faire gagner du temps aux utilisateurs lors de la production.</br>
