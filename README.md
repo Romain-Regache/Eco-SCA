@@ -9,3 +9,6 @@ Que ce soit chez vous, dans votre jardin, sur votre toit ou votre balcon. Notre 
 <br>• Produire sa propre nourriture facilement.
 <br>• Aider les utilisateurs à obtenir la meilleure récolte.
 <br>• Faire gagner du temps aux utilisateurs lors de la production.
+
+# Matériel utilisé
+
