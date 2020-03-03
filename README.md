@@ -12,7 +12,7 @@ Que ce soit chez vous, dans votre jardin, sur votre toit ou votre balcon. Notre 
 <br>• Faire gagner du temps aux utilisateurs lors de la production autonome.
 
 # Matériel utilisé
-- Sonde de température
+<br>- Sonde de température
 <br>- Photorésistance
 <br>- Capteur de niveau d'eau
 <br>- Capteur d'humidité et de température de l'air
