@@ -10,6 +10,7 @@ Que ce soit chez vous, dans votre jardin, sur votre toit ou votre balcon. Notre 
 <br>• Produire sa propre nourriture facilement et sans avoir à s'en soucier.
 <br>• Aider les utilisateurs à obtenir la meilleure récolte sans effort.
 <br>• Faire gagner du temps aux utilisateurs lors de la production autonome.
+<br>• Consulter les informations de la serre sur son Smartphone.  
 
 # Matériel utilisé
 <br>- Sonde de température
