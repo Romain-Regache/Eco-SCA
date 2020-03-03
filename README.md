@@ -6,10 +6,27 @@ Que ce soit chez vous, dans votre jardin, sur votre toit ou votre balcon. Notre 
 <br>Toutes les informations sur celle-ci seront disponibles en direct sur votre Smartphone. 
 
 # Objectifs
-• Faire pousser fruits et légumes n'importe où toute l'année.
-<br>• Produire sa propre nourriture facilement.
-<br>• Aider les utilisateurs à obtenir la meilleure récolte.
-<br>• Faire gagner du temps aux utilisateurs lors de la production.
+• Faire pousser fruits et légumes n'importe où toute l'année sans l'aide de l'utilisateur.
+<br>• Produire sa propre nourriture facilement et sans avoir à s'en soucier.
+<br>• Aider les utilisateurs à obtenir la meilleure récolte sans effort.
+<br>• Faire gagner du temps aux utilisateurs lors de la production autonome.
 
 # Matériel utilisé
+- Sonde de température
+<br>- Photorésistance
+<br>- Capteur de niveau d'eau
+<br>- Capteur d'humidité et de température de l'air
+<br>- Ruban LEDS 
+<br>- Carte wifi 
+<br>- Relais 12V
+<br>- Chauffage
+<br>- Ventilateur
+<br>- Servomoteur 
+<br>- Pompe à eau 
+<br>- Carte Arduino Nano
+
+# Lien vers les informations de la serre
+En cliquant sur le lien ci-dessous, vous trouverez les dernières données sur notre serre connectée. 
+https://thingspeak.com/channels/993496
+
 
