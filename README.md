@@ -13,17 +13,17 @@ Que ce soit chez vous, dans votre jardin, sur votre toit ou votre balcon. Notre 
 <br>• Consulter les informations de la serre sur son Smartphone.  
 
 # Matériel utilisé
-<br>- Sonde de température
-<br>- Photorésistance
-<br>- Capteur de niveau d'eau
-<br>- Capteur d'humidité et de température de l'air
-<br>- Ruban LEDS 
-<br>- Carte wifi 
-<br>- Relais 12V
-<br>- Chauffage
-<br>- Ventilateur
-<br>- Servomoteur 
-<br>- Pompe à eau 
+<br>- Sonde de température DS18B20
+<br>- Photorésistance LDR720
+<br>- Capteur de niveau d'eau ST065
+<br>- Capteur d'humidité et de température de l'air DHT11
+<br>- Ruban LEDS RGB WS2812.
+<br>- Carte wifi ESP8266
+<br>- Relais 5V
+<br>- Chauffage 5V
+<br>- Ventilateur 12V
+<br>- Servomoteur SG90
+<br>- Pompe à eau 12V
 <br>- Carte Arduino Nano
 
 # Lien vers les informations de la serre
